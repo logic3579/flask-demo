@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "flaskexample"
-version = "0.1.0"
+version = "0.1.1"
 description = "This is a Python demo project with Flask"
 authors = ["Yakir <yakir3@duck.com>"]
 readme = "README.md"
